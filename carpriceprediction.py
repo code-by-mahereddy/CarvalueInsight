@@ -1,17 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[64]:
-
-
-import pickle
-
-
-# In[128]:
 
 
 import pandas as pd
-data=pd.read_csv("C:\\Users\\rama\\Downloads\\fiat500.csv")
+data=pd.read_csv("fiat500.csv")
 data
 
 
